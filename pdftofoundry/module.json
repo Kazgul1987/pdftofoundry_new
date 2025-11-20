@@ -45,9 +45,10 @@
     "url": "https://github.com/matthewdbradley/pdftofoundry/",
     "bugs": "https://github.com/fryguy1013/pdftofoundry/issues",
     "changelog": "https://github.com/matthewdbradley/pdftofoundry/blob/release/CHANGELOG.md",
-    "manifest": "https://raw.githubusercontent.com/pdftofoundry_new/releases/latest/download/module.json",
+    "manifest": "https://raw.githubusercontent.com/pdftofoundry_new/release/pdftofoundry/module.json",
     "download": "https://github.com/Kazgul1987/pdftofoundry_new/releases/latest/download/module.zip"
 }
+
 
 
 
